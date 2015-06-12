@@ -169,29 +169,3 @@ xyplot(mean ~ interval | weekday_weekend, type = "l", data=avg_weekday_weekend,l
 ```
 
 As shown from the graph, excluding the mornings between around 0500 and 1000, the evenings between around 1700 and 2000 and the approximate sleeping hours, the weekends record a larger number of steps than weekdays on average.
-=======
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
-
-
-## Loading and preprocessing the data
-
-
-
-## What is mean total number of steps taken per day?
-
-
-
-## What is the average daily activity pattern?
-
-
-
-## Imputing missing values
-
-
-
-## Are there differences in activity patterns between weekdays and weekends?
->>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
